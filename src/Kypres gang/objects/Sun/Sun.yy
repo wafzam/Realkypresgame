@@ -1,9 +1,9 @@
 {
   "spriteId": {
-    "name": "Sprite13",
-    "path": "sprites/Sprite13/Sprite13.yy",
+    "name": "Sprite18",
+    "path": "sprites/Sprite18/Sprite18.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object9",
+  "name": "Sun",
   "tags": [],
   "resourceType": "GMObject",
 }
