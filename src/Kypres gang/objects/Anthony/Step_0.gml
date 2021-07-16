@@ -25,4 +25,4 @@ if(keyboard_check(vk_nokey)){
 	walkspeed=3.5
 }
 
-
+	
