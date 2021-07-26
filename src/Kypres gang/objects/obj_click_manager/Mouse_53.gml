@@ -1,2 +1,2 @@
-click_x = mouse_x;
-click_y = mouse_y;
+//click_x = mouse_x;
+//click_y = mouse_y;
